@@ -13,7 +13,7 @@ Full Stack .NET Developer with 4 years of experience building high-performance w
 - ♟️ Chess enthusiast & problem solver.
 
 ---
-📫 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:muthukumar.dev2001@gmail.comL)## Hi there 👋
+📫 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:muthukumar.dev2001@gmail.comL)
 
 <!--
 **muthukumar-dev2001/muthukumar-dev2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
